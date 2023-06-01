@@ -1,0 +1,4 @@
+ufo/bin/*
+ufo/obj/*
+ufo/ufo.csproj.user
+.vs/
